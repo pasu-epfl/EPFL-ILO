@@ -1,0 +1,45 @@
+,income group,policy,yes,no
+0,High income,General awareness,75.0,25.0
+1,High income,Education Primary/Secondary,15.0,85.0
+2,High income,Education university,10.0,90.0
+3,High income,JT concept,68.33333333333333,31.666666666666664
+4,High income,Macroeconomic and growth,90.0,10.0
+5,High income,Industrial and sectoral policies,86.66666666666667,13.333333333333334
+6,High income,TVET,3.3333333333333335,96.66666666666667
+7,High income,Skills development,21.666666666666668,78.33333333333333
+8,High income,Occupational safety and health,6.666666666666667,93.33333333333333
+9,High income,Active labour market policies,26.666666666666668,73.33333333333333
+10,High income,Social dialogue and tripartism,18.333333333333332,81.66666666666667
+11,Low income,General awareness,80.0,20.0
+12,Low income,Education Primary/Secondary,24.0,76.0
+13,Low income,Education university,16.0,84.0
+14,Low income,JT concept,56.00000000000001,44.0
+15,Low income,Macroeconomic and growth,88.0,12.0
+16,Low income,Industrial and sectoral policies,96.0,4.0
+17,Low income,TVET,12.0,88.0
+18,Low income,Skills development,84.0,16.0
+19,Low income,Occupational safety and health,4.0,96.0
+20,Low income,Active labour market policies,20.833333333333336,79.16666666666666
+21,Low income,Social dialogue and tripartism,20.0,80.0
+22,Lower middle income,General awareness,84.0,16.0
+23,Lower middle income,Education Primary/Secondary,24.0,76.0
+24,Lower middle income,Education university,20.0,80.0
+25,Lower middle income,JT concept,63.26530612244898,36.734693877551024
+26,Lower middle income,Macroeconomic and growth,96.0,4.0
+27,Lower middle income,Industrial and sectoral policies,96.0,4.0
+28,Lower middle income,TVET,10.0,90.0
+29,Lower middle income,Skills development,74.0,26.0
+30,Lower middle income,Occupational safety and health,14.285714285714285,85.71428571428571
+31,Lower middle income,Active labour market policies,38.0,62.0
+32,Lower middle income,Social dialogue and tripartism,12.0,88.0
+33,Upper middle income,General awareness,66.66666666666666,33.33333333333333
+34,Upper middle income,Education Primary/Secondary,13.725490196078432,86.27450980392157
+35,Upper middle income,Education university,15.686274509803921,84.31372549019608
+36,Upper middle income,JT concept,54.90196078431373,45.09803921568628
+37,Upper middle income,Macroeconomic and growth,86.27450980392157,13.725490196078432
+38,Upper middle income,Industrial and sectoral policies,82.35294117647058,17.647058823529413
+39,Upper middle income,TVET,2.0,98.0
+40,Upper middle income,Skills development,43.13725490196079,56.86274509803921
+41,Upper middle income,Occupational safety and health,9.803921568627452,90.19607843137256
+42,Upper middle income,Active labour market policies,31.372549019607842,68.62745098039215
+43,Upper middle income,Social dialogue and tripartism,21.568627450980394,78.43137254901961
