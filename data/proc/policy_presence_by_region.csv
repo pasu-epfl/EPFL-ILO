@@ -1,15 +1,15 @@
 ,region,policy,yes,no
-0,East Asia & Pacific,General awareness,64.28571428571429,35.714285714285715
-1,East Asia & Pacific,Education Primary/Secondary,17.857142857142858,82.14285714285714
-2,East Asia & Pacific,Education university,10.714285714285714,89.28571428571429
-3,East Asia & Pacific,JT concept,40.74074074074074,59.25925925925925
-4,East Asia & Pacific,Macroeconomic and growth,85.71428571428571,14.285714285714285
-5,East Asia & Pacific,Industrial and sectoral policies,85.71428571428571,14.285714285714285
-6,East Asia & Pacific,TVET,10.714285714285714,89.28571428571429
-7,East Asia & Pacific,Skills development,46.42857142857143,53.57142857142857
-8,East Asia & Pacific,Occupational safety and health,3.7037037037037033,96.29629629629629
-9,East Asia & Pacific,Active labour market policies,28.57142857142857,71.42857142857143
-10,East Asia & Pacific,Social dialogue and tripartism,21.428571428571427,78.57142857142857
+0,East Asia & Pacific,General awareness,66.66666666666666,33.33333333333333
+1,East Asia & Pacific,Education Primary/Secondary,20.0,80.0
+2,East Asia & Pacific,Education university,16.666666666666664,83.33333333333334
+3,East Asia & Pacific,JT concept,44.827586206896555,55.172413793103445
+4,East Asia & Pacific,Macroeconomic and growth,86.66666666666667,13.333333333333334
+5,East Asia & Pacific,Industrial and sectoral policies,86.66666666666667,13.333333333333334
+6,East Asia & Pacific,TVET,10.0,90.0
+7,East Asia & Pacific,Skills development,50.0,50.0
+8,East Asia & Pacific,Occupational safety and health,3.4482758620689653,96.55172413793103
+9,East Asia & Pacific,Active labour market policies,33.33333333333333,66.66666666666666
+10,East Asia & Pacific,Social dialogue and tripartism,20.0,80.0
 11,Europe & Central Asia,General awareness,76.92307692307693,23.076923076923077
 12,Europe & Central Asia,Education Primary/Secondary,7.6923076923076925,92.3076923076923
 13,Europe & Central Asia,Education university,9.615384615384617,90.38461538461539
@@ -59,17 +59,17 @@
 57,South Asia,Skills development,62.5,37.5
 58,South Asia,Occupational safety and health,37.5,62.5
 59,South Asia,Active labour market policies,37.5,62.5
-60,Sub-Saharan Africa,General awareness,78.72340425531915,21.27659574468085
-61,Sub-Saharan Africa,Education Primary/Secondary,19.148936170212767,80.85106382978722
-62,Sub-Saharan Africa,Education university,12.76595744680851,87.2340425531915
-63,Sub-Saharan Africa,JT concept,68.08510638297872,31.914893617021278
-64,Sub-Saharan Africa,Macroeconomic and growth,93.61702127659575,6.382978723404255
-65,Sub-Saharan Africa,Industrial and sectoral policies,93.61702127659575,6.382978723404255
-66,Sub-Saharan Africa,TVET,4.25531914893617,95.74468085106383
-67,Sub-Saharan Africa,Skills development,80.85106382978722,19.148936170212767
-68,Sub-Saharan Africa,Occupational safety and health,8.51063829787234,91.48936170212765
-69,Sub-Saharan Africa,Active labour market policies,32.608695652173914,67.3913043478261
-70,Sub-Saharan Africa,Social dialogue and tripartism,14.893617021276595,85.1063829787234
+60,Sub-Saharan Africa,General awareness,79.16666666666666,20.833333333333336
+61,Sub-Saharan Africa,Education Primary/Secondary,18.75,81.25
+62,Sub-Saharan Africa,Education university,12.5,87.5
+63,Sub-Saharan Africa,JT concept,66.66666666666666,33.33333333333333
+64,Sub-Saharan Africa,Macroeconomic and growth,93.75,6.25
+65,Sub-Saharan Africa,Industrial and sectoral policies,93.75,6.25
+66,Sub-Saharan Africa,TVET,4.166666666666666,95.83333333333334
+67,Sub-Saharan Africa,Skills development,81.25,18.75
+68,Sub-Saharan Africa,Occupational safety and health,8.333333333333332,91.66666666666666
+69,Sub-Saharan Africa,Active labour market policies,31.914893617021278,68.08510638297872
+70,Sub-Saharan Africa,Social dialogue and tripartism,14.583333333333334,85.41666666666666
 71,North America,Education Primary/Secondary,,100.0
 72,North America,Education university,,100.0
 73,North America,TVET,,100.0
